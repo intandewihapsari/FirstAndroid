@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity
         toggle.syncState();
         navigationView.setNavigationItemSelectedListener(this);
     }
-    void getdata()
+    void getdata(){}
 
     @Override
     public void onBackPressed() {
